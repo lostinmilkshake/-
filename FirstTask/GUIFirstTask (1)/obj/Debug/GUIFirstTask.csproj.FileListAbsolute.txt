@@ -1,0 +1,14 @@
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\obj\Debug\GUIFirstTask.csprojAssemblyReference.cache
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\obj\Debug\MainWindow.g.cs
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\obj\Debug\App.g.cs
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\obj\Debug\GUIFirstTask_MarkupCompile.cache
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\obj\Debug\GUIFirstTask_MarkupCompile.lref
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\bin\Debug\GUIFirstTask.exe.config
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\bin\Debug\GUIFirstTask.exe
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\bin\Debug\GUIFirstTask.pdb
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\obj\Debug\MainWindow.baml
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\obj\Debug\GUIFirstTask.g.resources
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\obj\Debug\GUIFirstTask.Properties.Resources.resources
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\obj\Debug\GUIFirstTask.csproj.GenerateResource.cache
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\obj\Debug\GUIFirstTask.exe
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\GUIFirstTask\obj\Debug\GUIFirstTask.pdb

@@ -1,0 +1,27 @@
+﻿<Window x:Class="GUIFirstTask.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUIFirstTask"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="329" Width="444">
+    <Grid>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="325,257,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <TextBox x:Name="NameBox" HorizontalAlignment="Left" Height="23" Margin="39,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" ToolTip="Введите имя для добавления"/>
+        <TextBox x:Name="ageBox" HorizontalAlignment="Left" Height="23" Margin="39,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" ToolTip="Введите возраст (должно быть целочисленное значение)"/>
+        <TextBox x:Name="weightBox" HorizontalAlignment="Left" Height="23" Margin="39,140,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.504,-0.848" ToolTip="Введите вес (должно быть рациональным числом)"/>
+        <TextBox x:Name="pasportBox" HorizontalAlignment="Left" Height="23" Margin="39,189,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.521,-0.696" ToolTip="Введите номер паспорта (длинна должна состовлять 10 цифр)"/>
+        <Label Content="Имя" HorizontalAlignment="Left" Margin="39,16,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.132,0.385"/>
+        <Label Content="Возраст" HorizontalAlignment="Left" Margin="39,65,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.132,0.385" Width="120"/>
+        <Label Content="Вес" HorizontalAlignment="Left" Margin="39,114,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.132,0.385"/>
+        <Label Content="Номер паспорта" HorizontalAlignment="Left" Margin="39,163,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.132,0.385" Width="120"/>
+        <Button x:Name="txtButton" Content="Вывести в txt" HorizontalAlignment="Left" Margin="39,232,0,0" VerticalAlignment="Top" Width="85" RenderTransformOrigin="-0.258,-0.317" Click="txtButton_Click"/>
+        <ComboBox x:Name="chooseBox" HorizontalAlignment="Left" Margin="289,43,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-0.481,0.273" >
+            <TextBlock>Человек</TextBlock>
+            <TextBlock>Совершеннолетний</TextBlock>
+        </ComboBox>
+        <Label Content="Кого вводим?" HorizontalAlignment="Left" Margin="289,17,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

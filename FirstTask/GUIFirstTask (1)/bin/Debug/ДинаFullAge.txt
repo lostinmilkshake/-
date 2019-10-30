@@ -1,0 +1,4 @@
+Name: Дина
+Age: 234
+Weight: 7865
+Passport Number: 687637419

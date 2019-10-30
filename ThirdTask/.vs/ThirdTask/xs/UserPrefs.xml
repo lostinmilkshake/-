@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8A484564-1EC2-4F1D-8895-7120F4D12C92}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThirdTask/Program.cs">
+    <Files>
+      <File FileName="ThirdTask/Program.cs" Line="110" Column="55" />
+      <File FileName="ThirdTaskTest/UnitTest1.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ThirdTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
