@@ -1,0 +1,11 @@
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/bin/Debug/netcoreapp3.0/FourthTask
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/bin/Debug/netcoreapp3.0/FourthTask.deps.json
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/bin/Debug/netcoreapp3.0/FourthTask.runtimeconfig.json
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/bin/Debug/netcoreapp3.0/FourthTask.runtimeconfig.dev.json
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/bin/Debug/netcoreapp3.0/FourthTask.dll
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/bin/Debug/netcoreapp3.0/FourthTask.pdb
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/obj/Debug/netcoreapp3.0/FourthTask.csprojAssemblyReference.cache
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/obj/Debug/netcoreapp3.0/FourthTask.AssemblyInfoInputs.cache
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/obj/Debug/netcoreapp3.0/FourthTask.AssemblyInfo.cs
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/obj/Debug/netcoreapp3.0/FourthTask.dll
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/obj/Debug/netcoreapp3.0/FourthTask.pdb
