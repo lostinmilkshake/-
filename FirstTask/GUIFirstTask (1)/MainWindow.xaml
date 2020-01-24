@@ -19,6 +19,7 @@
         <Button x:Name="txtButton" Content="Вывести в txt" HorizontalAlignment="Left" Margin="39,232,0,0" VerticalAlignment="Top" Width="85" RenderTransformOrigin="-0.258,-0.317" Click="txtButton_Click"/>
         <ComboBox x:Name="chooseBox" HorizontalAlignment="Left" Margin="289,43,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-0.481,0.273" >
             <TextBlock>Человек</TextBlock>
+            <TextBlock>Держатель паспорта</TextBlock>
             <TextBlock>Совершеннолетний</TextBlock>
         </ComboBox>
         <Label Content="Кого вводим?" HorizontalAlignment="Left" Margin="289,17,0,0" VerticalAlignment="Top"/>

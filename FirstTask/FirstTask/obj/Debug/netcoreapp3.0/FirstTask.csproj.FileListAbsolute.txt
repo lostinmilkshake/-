@@ -20,3 +20,8 @@ C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstT
 C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\FirstTask\obj\Debug\netcoreapp3.0\FirstTask.AssemblyInfo.cs
 C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\FirstTask\obj\Debug\netcoreapp3.0\FirstTask.dll
 C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FirstTask\FirstTask\obj\Debug\netcoreapp3.0\FirstTask.pdb
+Z:\Курсовая работа по ООП\FirstTask\FirstTask\obj\Debug\netcoreapp3.0\FirstTask.csprojAssemblyReference.cache
+Z:\Курсовая работа по ООП\FirstTask\FirstTask\obj\Debug\netcoreapp3.0\FirstTask.AssemblyInfoInputs.cache
+Z:\Курсовая работа по ООП\FirstTask\FirstTask\obj\Debug\netcoreapp3.0\FirstTask.AssemblyInfo.cs
+Z:\Курсовая работа по ООП\FirstTask\FirstTask\obj\Debug\netcoreapp3.0\FirstTask.dll
+Z:\Курсовая работа по ООП\FirstTask\FirstTask\obj\Debug\netcoreapp3.0\FirstTask.pdb

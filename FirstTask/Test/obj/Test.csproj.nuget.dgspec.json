@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dogge!\\Google Диск\\Курсовая работа по ООП\\FirstTask\\Test\\Test.csproj": {}
+    "Z:\\Курсовая работа по ООП\\FirstTask\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dogge!\\Google Диск\\Курсовая работа по ООП\\FirstTask\\FirstTask\\FirstTask.csproj": {
+    "Z:\\Курсовая работа по ООП\\FirstTask\\FirstTask\\FirstTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dogge!\\Google Диск\\Курсовая работа по ООП\\FirstTask\\FirstTask\\FirstTask.csproj",
+        "projectUniqueName": "Z:\\Курсовая работа по ООП\\FirstTask\\FirstTask\\FirstTask.csproj",
         "projectName": "FirstTask",
-        "projectPath": "C:\\Users\\Dogge!\\Google Диск\\Курсовая работа по ООП\\FirstTask\\FirstTask\\FirstTask.csproj",
-        "packagesPath": "C:\\Users\\Dogge!\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dogge!\\Google Диск\\Курсовая работа по ООП\\FirstTask\\FirstTask\\obj\\",
+        "projectPath": "Z:\\Курсовая работа по ООП\\FirstTask\\FirstTask\\FirstTask.csproj",
+        "packagesPath": "C:\\Users\\Dina\\.nuget\\packages\\",
+        "outputPath": "Z:\\Курсовая работа по ООП\\FirstTask\\FirstTask\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dogge!\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Dina\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,43 +45,56 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dogge!\\Google Диск\\Курсовая работа по ООП\\FirstTask\\Test\\Test.csproj": {
+    "Z:\\Курсовая работа по ООП\\FirstTask\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dogge!\\Google Диск\\Курсовая работа по ООП\\FirstTask\\Test\\Test.csproj",
+        "projectUniqueName": "Z:\\Курсовая работа по ООП\\FirstTask\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\Dogge!\\Google Диск\\Курсовая работа по ООП\\FirstTask\\Test\\Test.csproj",
-        "packagesPath": "C:\\Users\\Dogge!\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dogge!\\Google Диск\\Курсовая работа по ООП\\FirstTask\\Test\\obj\\",
+        "projectPath": "Z:\\Курсовая работа по ООП\\FirstTask\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\Dina\\.nuget\\packages\\",
+        "outputPath": "Z:\\Курсовая работа по ООП\\FirstTask\\Test\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dogge!\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Dina\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Dogge!\\Google Диск\\Курсовая работа по ООП\\FirstTask\\FirstTask\\FirstTask.csproj": {
-                "projectPath": "C:\\Users\\Dogge!\\Google Диск\\Курсовая работа по ООП\\FirstTask\\FirstTask\\FirstTask.csproj"
+              "Z:\\Курсовая работа по ООП\\FirstTask\\FirstTask\\FirstTask.csproj": {
+                "projectPath": "Z:\\Курсовая работа по ООП\\FirstTask\\FirstTask\\FirstTask.csproj"
               }
             }
           }
@@ -127,12 +135,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

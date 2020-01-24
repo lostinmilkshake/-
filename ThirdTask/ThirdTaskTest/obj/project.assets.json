@@ -2030,14 +2030,13 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "ThirdTask/1.0.0": {
+      "WindowsFormsGUI/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
         "compile": {
-          "bin/placeholder/ThirdTask.dll": {}
+          "bin/placeholder/WindowsFormsGUI.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ThirdTask.dll": {}
+          "bin/placeholder/WindowsFormsGUI.dll": {}
         }
       }
     }
@@ -2861,6 +2860,7 @@
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -2874,6 +2874,7 @@
       "path": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -2887,6 +2888,7 @@
       "path": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -6856,10 +6858,10 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "ThirdTask/1.0.0": {
+    "WindowsFormsGUI/1.0.0": {
       "type": "project",
-      "path": "../ThirdTask/ThirdTask.csproj",
-      "msbuildProject": "../ThirdTask/ThirdTask.csproj"
+      "path": "../WindowsFormsGUI/WindowsFormsGUI.csproj",
+      "msbuildProject": "../WindowsFormsGUI/WindowsFormsGUI.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6867,28 +6869,24 @@
       "MSTest.TestAdapter >= 1.4.0",
       "MSTest.TestFramework >= 1.4.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
-      "ThirdTask >= 1.0.0",
+      "WindowsFormsGUI >= 1.0.0",
       "coverlet.collector >= 1.0.1"
     ]
   },
   "packageFolders": {
-    "/Users/irinalitvinova/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Dina\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/ThirdTask/ThirdTaskTest/ThirdTaskTest.csproj",
+      "projectUniqueName": "Z:\\Курсовая работа по ООП\\ThirdTask\\ThirdTaskTest\\ThirdTaskTest.csproj",
       "projectName": "ThirdTaskTest",
-      "projectPath": "/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/ThirdTask/ThirdTaskTest/ThirdTaskTest.csproj",
-      "packagesPath": "/Users/irinalitvinova/.nuget/packages/",
-      "outputPath": "/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/ThirdTask/ThirdTaskTest/obj/",
+      "projectPath": "Z:\\Курсовая работа по ООП\\ThirdTask\\ThirdTaskTest\\ThirdTaskTest.csproj",
+      "packagesPath": "C:\\Users\\Dina\\.nuget\\packages\\",
+      "outputPath": "Z:\\Курсовая работа по ООП\\ThirdTask\\ThirdTaskTest\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/irinalitvinova/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Dina\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -6899,8 +6897,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/ThirdTask/ThirdTask/ThirdTask.csproj": {
-              "projectPath": "/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/ThirdTask/ThirdTask/ThirdTask.csproj"
+            "Z:\\Курсовая работа по ООП\\ThirdTask\\WindowsFormsGUI\\WindowsFormsGUI.csproj": {
+              "projectPath": "Z:\\Курсовая работа по ООП\\ThirdTask\\WindowsFormsGUI\\WindowsFormsGUI.csproj"
             }
           }
         }
@@ -6941,12 +6939,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

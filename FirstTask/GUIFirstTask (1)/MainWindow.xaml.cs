@@ -22,43 +22,70 @@ namespace GUIFirstTask
     /// </summary>
     public partial class MainWindow : Window
     {
-        List<FullAge> fullAges = new List<FullAge> { };
-        List<Human> humen = new List<Human> { };
-        static FullAge addNewFullAge(string newName, string newAge, string newWeight, string newPasport)
+        List<Human> humans = new List<Human> { }; //List of all humen
+        //Error handling for PasportHolder
+        static PasportHolder addNewPasportHolder(string newName, string newAge, string newWeight, string newPasport)
         {
-            FullAge newOne;
-            if (!Program.checkAge(newAge) || int.Parse(newAge) < 14)
+            PasportHolder newOne;
+            if (!CheckHumanEnter.checkAge(newAge) || int.Parse(newAge) < 14)
             {
                 MessageBoxResult result = MessageBox.Show("Ошибка, неверный возраст", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 return null;
             }
-            if (!Program.checkWeight(newWeight))
+            if (!CheckHumanEnter.checkWeight(newWeight))
             {
                 MessageBoxResult result = MessageBox.Show("Ошибка, неверный вес", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 return null;
             }
-            if (!Program.checkWeight(newPasport))
+            if (!CheckHumanEnter.checkPasport(newPasport))
             {
                 MessageBoxResult result = MessageBox.Show("Ошибка, неверный номер паспорта", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 return null;
             }
             else { 
-            // TODO add checks
+                int newIntAge = int.Parse(newAge);
+                float newFloatWeight = float.Parse(newWeight);
+                newOne = new PasportHolder(newName, newIntAge, newFloatWeight, newPasport);
+                return newOne;
+            }
+        }
+        //Error handling for FullAge
+        static FullAge addNewFullAge(string newName, string newAge, string newWeight, string newPasport)
+        {
+            FullAge newOne;
+            if (!CheckHumanEnter.checkAge(newAge) || int.Parse(newAge) < 14)
+            {
+                MessageBoxResult result = MessageBox.Show("Ошибка, неверный возраст", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                return null;
+            }
+            if (!CheckHumanEnter.checkWeight(newWeight))
+            {
+                MessageBoxResult result = MessageBox.Show("Ошибка, неверный вес", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                return null;
+            }
+            if (!CheckHumanEnter.checkPasport(newPasport))
+            {
+                MessageBoxResult result = MessageBox.Show("Ошибка, неверный номер паспорта", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                return null;
+            }
+            else
+            {
                 int newIntAge = int.Parse(newAge);
                 float newFloatWeight = float.Parse(newWeight);
                 newOne = new FullAge(newName, newIntAge, newFloatWeight, newPasport);
                 return newOne;
             }
         }
+        //Error handling for Human
         static FullAge addNewHuman(string newName, string newAge, string newWeight)
         {
             FullAge newOne;
-            if (!Program.checkAge(newAge) || int.Parse(newAge) < 14)
+            if (!CheckHumanEnter.checkAge(newAge) || int.Parse(newAge) < 14)
             {
                 MessageBoxResult result = MessageBox.Show("Ошибка, неверный возраст", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 return null;
             }
-            if (!Program.checkWeight(newWeight))
+            if (!CheckHumanEnter.checkWeight(newWeight))
             {
                 MessageBoxResult result = MessageBox.Show("Ошибка, неверный вес", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 return null;
@@ -83,36 +110,44 @@ namespace GUIFirstTask
             string stringAge = ageBox.Text;
             string stringWeight = weightBox.Text;
             string pasportNumber = pasportBox.Text;
-            if (chooseBox.Text == "Человек")
+            switch (chooseBox.Text) //Deciding who to add, based on chooseBox
             {
-                Human human;
-                human = addNewHuman(name, stringAge, stringWeight);
-                if (human != null)
-                {
-                    humen.Add(human);
-                    MessageBox.Show("Успешно добавлено", "Добавление", MessageBoxButton.OK, MessageBoxImage.Information);
-                }
-            }
-            else if (chooseBox.Text == "Совершеннолетний")
-            {
-                FullAge fullAge;
-                fullAge = addNewFullAge(name, stringAge, stringWeight, pasportNumber);
-                if (fullAge != null)
-                {
-                    fullAges.Add(fullAge);
-                    MessageBox.Show("Успешно добавлено", "Добавление", MessageBoxButton.OK, MessageBoxImage.Information);
-                }
+                case "Человек":
+                    Human human;
+                    human = addNewHuman(name, stringAge, stringWeight);
+                    if (human != null)
+                    {
+                        humans.Add(human);
+                        MessageBox.Show("Успешно добавлено", "Добавление", MessageBoxButton.OK, MessageBoxImage.Information);
+                    }
+                    break;
+                case "Держатель паспорта":
+                    PasportHolder pasportHolder;
+                    pasportHolder = addNewPasportHolder(name, stringAge, stringWeight, pasportNumber);
+                    if (pasportHolder != null)
+                    {
+                        humans.Add(pasportHolder);
+                        MessageBox.Show("Успешно добавлено", "Добавление", MessageBoxButton.OK, MessageBoxImage.Information);
+                    }
+                    break;
+                case "Совершеннолетний":
+                    FullAge fullAge;
+                    fullAge = addNewFullAge(name, stringAge, stringWeight, pasportNumber);
+                    if (fullAge != null)
+                    {
+                        humans.Add(fullAge);
+                        MessageBox.Show("Успешно добавлено", "Добавление", MessageBoxButton.OK, MessageBoxImage.Information);
+                    }
+                    break;
+                default: break;
             }
         }
+        //Button for printing all humans in txt file
         private void txtButton_Click(object sender, RoutedEventArgs e)
         {
-            foreach (FullAge onefullAge in fullAges)
+            foreach (Human oneHuman in humans)
             {
-                onefullAge.streamToFileFullAge();
-            }
-            foreach (Human oneHuman in humen)
-            {
-                oneHuman.streamToFileHuman();
+                oneHuman.streamToFile();
             }
             MessageBox.Show("Успешно выведенно", "Вывод", MessageBoxButton.OK, MessageBoxImage.Information);
         }

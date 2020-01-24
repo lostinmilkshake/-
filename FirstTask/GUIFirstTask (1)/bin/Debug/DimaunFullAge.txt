@@ -1,7 +1,0 @@
-Name: Dimaun
-Age: 73
-Weight: 120
-Passport Number: 0987654321Name: Dimaun
-Age: 19
-Weight: 50
-Passport Number: 1234567890

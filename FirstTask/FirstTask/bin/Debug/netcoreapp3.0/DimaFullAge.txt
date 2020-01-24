@@ -1,4 +1,0 @@
-Name: Dima
-Age: 19
-Weight: 70
-Passport Number: 0000000000

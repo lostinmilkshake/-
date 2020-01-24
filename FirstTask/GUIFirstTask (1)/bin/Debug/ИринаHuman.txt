@@ -1,4 +1,0 @@
-Name: Ирина
-Age: 21
-Weight: 56
-Passport Number: 0000000000

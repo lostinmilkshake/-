@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BA816A77-7107-463E-8B02-99072335DBDF}|Default">
+  <MonoDevelop.Ide.ItemProperties.FifthTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FifthTask/Program.cs">
+    <Files>
+      <File FileName="FifthTask/Program.cs" Line="74" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FifthTask" expanded="True">
+            <Node name="FifthTask" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

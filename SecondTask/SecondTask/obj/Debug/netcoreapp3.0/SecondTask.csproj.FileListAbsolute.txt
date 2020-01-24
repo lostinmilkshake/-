@@ -1,0 +1,33 @@
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/SecondTask/SecondTask/bin/Debug/netcoreapp3.0/SecondTask
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/SecondTask/SecondTask/bin/Debug/netcoreapp3.0/SecondTask.deps.json
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/SecondTask/SecondTask/bin/Debug/netcoreapp3.0/SecondTask.runtimeconfig.json
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/SecondTask/SecondTask/bin/Debug/netcoreapp3.0/SecondTask.runtimeconfig.dev.json
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/SecondTask/SecondTask/bin/Debug/netcoreapp3.0/SecondTask.dll
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/SecondTask/SecondTask/bin/Debug/netcoreapp3.0/SecondTask.pdb
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/SecondTask/SecondTask/obj/Debug/netcoreapp3.0/SecondTask.csprojAssemblyReference.cache
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/SecondTask/SecondTask/obj/Debug/netcoreapp3.0/SecondTask.AssemblyInfoInputs.cache
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/SecondTask/SecondTask/obj/Debug/netcoreapp3.0/SecondTask.AssemblyInfo.cs
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/SecondTask/SecondTask/obj/Debug/netcoreapp3.0/SecondTask.dll
+/Users/irinalitvinova/Google Диск/Курсовая работа по ООП/SecondTask/SecondTask/obj/Debug/netcoreapp3.0/SecondTask.pdb
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.exe
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.deps.json
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.runtimeconfig.json
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.runtimeconfig.dev.json
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.dll
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.pdb
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.csprojAssemblyReference.cache
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.AssemblyInfoInputs.cache
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.AssemblyInfo.cs
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.dll
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.pdb
+Z:\Курсовая работа по ООП\SecondTask\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.exe
+Z:\Курсовая работа по ООП\SecondTask\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.deps.json
+Z:\Курсовая работа по ООП\SecondTask\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.runtimeconfig.json
+Z:\Курсовая работа по ООП\SecondTask\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.runtimeconfig.dev.json
+Z:\Курсовая работа по ООП\SecondTask\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.dll
+Z:\Курсовая работа по ООП\SecondTask\SecondTask\bin\Debug\netcoreapp3.0\SecondTask.pdb
+Z:\Курсовая работа по ООП\SecondTask\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.csprojAssemblyReference.cache
+Z:\Курсовая работа по ООП\SecondTask\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.AssemblyInfoInputs.cache
+Z:\Курсовая работа по ООП\SecondTask\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.AssemblyInfo.cs
+Z:\Курсовая работа по ООП\SecondTask\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.dll
+Z:\Курсовая работа по ООП\SecondTask\SecondTask\obj\Debug\netcoreapp3.0\SecondTask.pdb

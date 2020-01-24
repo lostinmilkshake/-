@@ -1,0 +1,18 @@
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\bin\Debug\WindowsFormsGUI2.exe.config
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\bin\Debug\WindowsFormsGUI2.exe
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\bin\Debug\WindowsFormsGUI2.pdb
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\obj\Debug\WindowsFormsGUI2.csprojAssemblyReference.cache
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\obj\Debug\WindowsFormsGUI2.Form1.resources
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\obj\Debug\WindowsFormsGUI2.Properties.Resources.resources
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\obj\Debug\WindowsFormsGUI2.csproj.GenerateResource.cache
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\obj\Debug\WindowsFormsGUI2.exe
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\obj\Debug\WindowsFormsGUI2.pdb
+Z:\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\obj\Debug\WindowsFormsGUI2.exe
+Z:\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\obj\Debug\WindowsFormsGUI2.pdb
+Z:\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\bin\Debug\WindowsFormsGUI2.exe.config
+Z:\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\bin\Debug\WindowsFormsGUI2.exe
+Z:\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\bin\Debug\WindowsFormsGUI2.pdb
+Z:\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\obj\Debug\WindowsFormsGUI2.csprojAssemblyReference.cache
+Z:\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\obj\Debug\WindowsFormsGUI2.Form1.resources
+Z:\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\obj\Debug\WindowsFormsGUI2.Properties.Resources.resources
+Z:\Курсовая работа по ООП\SecondTask\WindowsFormsGUI2\obj\Debug\WindowsFormsGUI2.csproj.GenerateResource.cache

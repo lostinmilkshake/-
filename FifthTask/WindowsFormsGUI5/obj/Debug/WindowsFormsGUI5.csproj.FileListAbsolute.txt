@@ -1,0 +1,18 @@
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\bin\Debug\WindowsFormsGUI5.exe.config
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\bin\Debug\WindowsFormsGUI5.exe
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\bin\Debug\WindowsFormsGUI5.pdb
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\obj\Debug\WindowsFormsGUI5.csprojAssemblyReference.cache
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\obj\Debug\WindowsFormsGUI5.Form1.resources
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\obj\Debug\WindowsFormsGUI5.Properties.Resources.resources
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\obj\Debug\WindowsFormsGUI5.csproj.GenerateResource.cache
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\obj\Debug\WindowsFormsGUI5.exe
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\obj\Debug\WindowsFormsGUI5.pdb
+Z:\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\bin\Debug\WindowsFormsGUI5.exe.config
+Z:\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\bin\Debug\WindowsFormsGUI5.exe
+Z:\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\bin\Debug\WindowsFormsGUI5.pdb
+Z:\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\obj\Debug\WindowsFormsGUI5.csprojAssemblyReference.cache
+Z:\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\obj\Debug\WindowsFormsGUI5.Form1.resources
+Z:\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\obj\Debug\WindowsFormsGUI5.Properties.Resources.resources
+Z:\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\obj\Debug\WindowsFormsGUI5.csproj.GenerateResource.cache
+Z:\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\obj\Debug\WindowsFormsGUI5.exe
+Z:\Курсовая работа по ООП\FifthTask\WindowsFormsGUI5\obj\Debug\WindowsFormsGUI5.pdb

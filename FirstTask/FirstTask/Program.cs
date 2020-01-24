@@ -13,9 +13,9 @@ namespace FirstTask
 {
     public class Human
     {
-        protected string name; //Name of the human
-        protected int age; //Age of the human
-        protected int weight; //Weight of the human
+        private string name; //Name of the human
+        private int age; //Age of the human
+        private int weight; //Weight of the human
         //Constructor by default
         public Human() {
             name = "";

@@ -9,3 +9,14 @@
 /Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/obj/Debug/netcoreapp3.0/FourthTask.AssemblyInfo.cs
 /Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/obj/Debug/netcoreapp3.0/FourthTask.dll
 /Users/irinalitvinova/Google Диск/Курсовая работа по ООП/FourthTask/obj/Debug/netcoreapp3.0/FourthTask.pdb
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FourthTask\bin\Debug\netcoreapp3.0\FourthTask.exe
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FourthTask\bin\Debug\netcoreapp3.0\FourthTask.deps.json
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FourthTask\bin\Debug\netcoreapp3.0\FourthTask.runtimeconfig.json
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FourthTask\bin\Debug\netcoreapp3.0\FourthTask.runtimeconfig.dev.json
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FourthTask\bin\Debug\netcoreapp3.0\FourthTask.dll
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FourthTask\bin\Debug\netcoreapp3.0\FourthTask.pdb
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FourthTask\obj\Debug\netcoreapp3.0\FourthTask.csprojAssemblyReference.cache
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FourthTask\obj\Debug\netcoreapp3.0\FourthTask.AssemblyInfoInputs.cache
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FourthTask\obj\Debug\netcoreapp3.0\FourthTask.AssemblyInfo.cs
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FourthTask\obj\Debug\netcoreapp3.0\FourthTask.dll
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\FourthTask\obj\Debug\netcoreapp3.0\FourthTask.pdb

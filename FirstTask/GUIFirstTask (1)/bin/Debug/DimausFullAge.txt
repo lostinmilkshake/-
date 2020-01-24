@@ -1,7 +1,0 @@
-Name: Dimaus
-Age: 19
-Weight: 50
-Passport Number: 1234567890Name: Dimaus
-Age: 19
-Weight: 50
-Passport Number: 1234567890

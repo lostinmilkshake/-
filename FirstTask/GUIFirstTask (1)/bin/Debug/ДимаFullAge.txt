@@ -1,4 +1,0 @@
-Name: Дима
-Age: 321
-Weight: 234
-Passport Number: 23479856

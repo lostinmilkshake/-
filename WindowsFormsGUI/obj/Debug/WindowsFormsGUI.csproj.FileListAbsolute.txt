@@ -1,0 +1,18 @@
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\WindowsFormsGUI\obj\Debug\WindowsFormsGUI.csprojAssemblyReference.cache
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\WindowsFormsGUI\obj\Debug\WindowsFormsGUI.Form1.resources
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\WindowsFormsGUI\obj\Debug\WindowsFormsGUI.Properties.Resources.resources
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\WindowsFormsGUI\obj\Debug\WindowsFormsGUI.csproj.GenerateResource.cache
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\WindowsFormsGUI\bin\Debug\WindowsFormsGUI.exe.config
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\WindowsFormsGUI\bin\Debug\WindowsFormsGUI.exe
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\WindowsFormsGUI\bin\Debug\WindowsFormsGUI.pdb
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\WindowsFormsGUI\obj\Debug\WindowsFormsGUI.exe
+C:\Users\Dogge!\Google Диск\Курсовая работа по ООП\WindowsFormsGUI\obj\Debug\WindowsFormsGUI.pdb
+Z:\Курсовая работа по ООП\WindowsFormsGUI\bin\Debug\WindowsFormsGUI.exe.config
+Z:\Курсовая работа по ООП\WindowsFormsGUI\bin\Debug\WindowsFormsGUI.exe
+Z:\Курсовая работа по ООП\WindowsFormsGUI\bin\Debug\WindowsFormsGUI.pdb
+Z:\Курсовая работа по ООП\WindowsFormsGUI\obj\Debug\WindowsFormsGUI.csprojAssemblyReference.cache
+Z:\Курсовая работа по ООП\WindowsFormsGUI\obj\Debug\WindowsFormsGUI.Form1.resources
+Z:\Курсовая работа по ООП\WindowsFormsGUI\obj\Debug\WindowsFormsGUI.Properties.Resources.resources
+Z:\Курсовая работа по ООП\WindowsFormsGUI\obj\Debug\WindowsFormsGUI.csproj.GenerateResource.cache
+Z:\Курсовая работа по ООП\WindowsFormsGUI\obj\Debug\WindowsFormsGUI.exe
+Z:\Курсовая работа по ООП\WindowsFormsGUI\obj\Debug\WindowsFormsGUI.pdb

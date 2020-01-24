@@ -14,6 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ThirdTask\ThirdTask.csproj" />
+    <ProjectReference Include="..\WindowsFormsGUI\WindowsFormsGUI.csproj" />
   </ItemGroup>
 </Project>
